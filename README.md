@@ -23,4 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ankush-choudhary76/leetcode-submission/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ankush-choudhary76/leetcode-submission/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 <!---LeetCode Topics End-->
